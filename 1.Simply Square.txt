@@ -1,6 +1,0 @@
-<div></div><style>
-*{margin:0px;background-color:#5d3a3a}
-div{background-color:#b5e0ba;width:200px;height:200px}
-
-
-//Score 740.2
